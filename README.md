@@ -47,5 +47,3 @@ The objective of this project is to:
 - **PyTorch** for implementing the neural networks.
 - **scikit-learn** for the Random Forest model.
 - **MNIST Dataset** for classification.
-
-## 📂 **Repository Structure**
